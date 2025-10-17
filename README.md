@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Lucca Valentin! 👋
 
  - 🔭 Trabalho com front end e dados
- - 🌱 Estudando: Node JS e Python
- - 😄 Pronouns: Ele/Dele
  - 
 ![Lucca Valentin GitHub stats](https://github-readme-stats.vercel.app/api?username=luccavalentin&show_icons=true&theme=dark)
 
