@@ -19,7 +19,7 @@
 <div align="center">
   
   <!-- NOME COM EFEITO DE DIGITAÇÃO -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=LUCCA+VALENTIN+SANTANA" alt="Lucca Valentin Santana" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=READMI+LUCCA+VA..." alt="Readmi Lucca Va..." />
 
   <!-- ANIMAÇÃO DE SERVIÇOS -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=🎨+SITES+MODERNOS+E+RESPONSIVOS;⚡+SISTEMAS+PERSONALIZADOS+SOB+MEDIDA;🤖+AUTOMAÇÕES+INTELIGENTES+COM+IA" alt="Services Animation" />
@@ -135,14 +135,14 @@
     </td>
     <td align="center" width="120">
       <div style="background: linear-gradient(135deg, #6366F1, #4F46E5); padding: 15px; border-radius: 12px;">
-        <img src="https://raw.githubusercontent.com/luccavalentin/luccavalentin/main/assets/deepseek-logo.png" width="40" height="40" onerror="this.src='https://via.placeholder.com/40/6366F1/FFFFFF?text=DS'" />
+        <img src="https://raw.githubusercontent.com/Remix-Design/RemixIcon/master/icons/Logos/ai-agent-fill.svg" width="40" height="40" style="filter: brightness(0) invert(1);" />
         <br><strong style="color: white;">DeepSeek</strong>
       </div>
     </td>
     <td align="center" width="120">
       <div style="background: linear-gradient(135deg, #8B5CF6, #7C3AED); padding: 15px; border-radius: 12px;">
-        <img src="https://raw.githubusercontent.com/luccavalentin/luccavalentin/main/assets/gemini-logo.png" width="40" height="40" onerror="this.src='https://via.placeholder.com/40/8B5CF6/FFFFFF?text=G'" />
-        <br><strong style="color: white;">Gemini AI</strong>
+        <img src="https://lobehub.com/icons/gemini.svg" width="40" height="40" />
+        <br><strong style="color: white;">Gemini IA</strong>
       </div>
     </td>
     <td align="center" width="120">
@@ -153,7 +153,7 @@
     </td>
     <td align="center" width="120">
       <div style="background: linear-gradient(135deg, #F59E0B, #D97706); padding: 15px; border-radius: 12px;">
-        <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/design-system/src/assets/images/logo/n8n-icon.svg" width="40" height="40" style="filter: brightness(0) invert(1);" />
+        <img src="https://github.com/topics/n8n/raw/master/.github/logo.png" width="40" height="40" style="filter: brightness(0) invert(1);" />
         <br><strong style="color: white;">n8n</strong>
       </div>
     </td>
