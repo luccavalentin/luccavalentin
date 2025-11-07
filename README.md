@@ -18,8 +18,8 @@
 <!-- CABEÇALHO PRINCIPAL COM EFEITO DE DIGITAÇÃO -->
 <div align="center">
   
-  <!-- NOME COM EFEITO DE DIGITAÇÃO -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=READMI+LUCCA+VA..." alt="Readmi Lucca Va..." />
+  <!-- NOME COM EFEITO DE DIGITAÇÃO CORRIGIDO -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=LUCCA+VALENTIN+SANTANA" alt="Lucca Valentin Santana" />
 
   <!-- ANIMAÇÃO DE SERVIÇOS -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=🎨+SITES+MODERNOS+E+RESPONSIVOS;⚡+SISTEMAS+PERSONALIZADOS+SOB+MEDIDA;🤖+AUTOMAÇÕES+INTELIGENTES+COM+IA" alt="Services Animation" />
@@ -153,7 +153,7 @@
     </td>
     <td align="center" width="120">
       <div style="background: linear-gradient(135deg, #F59E0B, #D97706); padding: 15px; border-radius: 12px;">
-        <img src="https://github.com/topics/n8n/raw/master/.github/logo.png" width="40" height="40" style="filter: brightness(0) invert(1);" />
+        <img src="https://avatars.githubusercontent.com/u/41137045?s=200&v=4" width="40" height="40" style="filter: brightness(0) invert(1);" />
         <br><strong style="color: white;">n8n</strong>
       </div>
     </td>
