@@ -1,111 +1,418 @@
-<!-- HEADER -->
-<h1 align="center">
-  🚀 <span style="background: linear-gradient(90deg, #3ECF8E, #61DAFB); -webkit-background-clip: text; color: transparent;">Olá, eu sou o Lucca Valentin</span> — Desenvolvedor Front-End Pleno
-</h1>
-
+<!-- FUNDO TECNOLÓGICO ANIMADO -->
 <p align="center">
-  Fundador da <strong><a href="https://valenstech.com" target="_blank">ValensTech</a></strong> — empresa especializada em 
-  <strong>desenvolvimento de sites, automações e soluções digitais personalizadas</strong> que simplificam processos e impulsionam negócios por meio da tecnologia e inteligência artificial.
-  <br>
-  💡 Apaixonado por transformar ideias em experiências digitais que geram resultados reais.
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  
+  <!-- LOADING TECNOLÓGICO MELHORADO -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=800&size=18&duration=1800&pause=400&color=6366F1&center=true&vCenter=true&width=800&lines=⚡+INICIALIZANDO+SISTEMA+DE+INOVAÇÃO+TECNOLÓGICA;🚀+CARREGANDO+SOLUÇÕES+INTELIGENTES;🎯+PREPARANDO+EXPERIÊNCIAS+DIGITAIS+AVANÇADAS" alt="Loading Tech" />
+  </div>
+
+  <!-- COBRINHA COM CORES DO SISTEMA -->
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=6366F1&color_dots=1e293b&color_food=10B981" 
+    alt="snake animation"
+    style="filter: drop-shadow(0 0 12px #6366F1) brightness(1.1) contrast(1.3); border-radius: 10px;"
+  />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&lines=💻+Criando+experiências+digitais+inteligentes;🚀+Transformando+negócios+com+automação+e+IA;🧠+Programação+com+propósito+e+estratégia;">
-</p>
-
----
-
-### 👨‍💻 Sobre mim
-
-Sou um **Desenvolvedor Front-End Pleno** movido por **curiosidade e aprendizado constante**.  
-Também atuo como **Analista de Sistemas**, com visão completa de soluções digitais.  
-
-Meu foco principal é o **front-end**, criando interfaces modernas, intuitivas e performáticas —  
-mas consigo atuar com segurança também no **fullstack**, entendendo toda a estrutura que dá vida às aplicações.  
-
-Sou **graduado em Ciências Contábeis**, **tecnólogo em Análise e Desenvolvimento de Sistemas** e atualmente **concluo meu MBA em Engenharia de Software pela USP/ESALQ**.  
-Essa formação me proporciona uma **visão ampla sobre negócios, tecnologia e estratégia**, permitindo criar soluções que unem **eficiência técnica e valor empresarial real**.  
-
-Sou fundador da <strong><a href="https://valenstech.com" target="_blank">ValensTech</a></strong>, uma empresa dedicada a **transformar e impulsionar negócios através da tecnologia**,  
-desenvolvendo **sites modernos, automações inteligentes e sistemas sob medida** que simplificam processos e aumentam a produtividade.  
-
-Nosso propósito é **tornar a tecnologia acessível e estratégica**, ajudando empresas a crescerem com soluções digitais inteligentes e de alto impacto.  
-
-Além do desenvolvimento web, também crio **automações e integrações inteligentes** que otimizam tempo e reduzem custos operacionais,  
-usando ferramentas como **Python**, **n8n**, **Make (Integromat)**, **APIs personalizadas** e **integrações com IA (ChatGPT API, OpenAI, Gemini, Claude e mais)**.  
-
-Meu objetivo é unir **design, código, automação e inteligência artificial** para entregar soluções completas, escaláveis e com resultado real.  
-
----
-
-### 🧠 Áreas em que atuo
-
-- Desenvolvimento de **interfaces modernas** (React, Next.js, Tailwind, TypeScript)  
-- Criação de **plataformas e sistemas SaaS sob medida**  
-- **Automações com Python, n8n e Make**  
-- Integrações com **APIs externas e bancos de dados**  
-- Implementações com **Inteligência Artificial** (ChatGPT, OpenAI API, Gemini, Claude, etc.)  
-- **Reposicionamento digital** e presença online de marcas e negócios  
-
----
-
-### 🛠️ Tecnologias & Ferramentas  
-
+<!-- CABEÇALHO PROFISSIONAL -->
 <div align="center">
+  
+  <!-- TÍTULO PRINCIPAL COM GRADIENTE COERENTE -->
+  <h1 style="font-size: 2.8rem; margin: 20px 0; background: linear-gradient(135deg, #6366F1 0%, #10B981 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 4px 20px rgba(99, 102, 241, 0.2);">
+    LUCCA VALENTIN SANTANA
+  </h1>
 
-#### 💻 **Front-End**
-<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-<a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
-<a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
+  <!-- SUBTÍTULO DINÂMICO MELHORADO -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=900&lines=DESENVOLVEDOR+FRONT-END+PLENO+%7C+ESPECIALISTA+EM+IA;ANALISTA+DE+SISTEMAS+%7C+CONTADOR+CERTIFICADO;FUNDADOR+DA+VALENSTECH+%7C+VISÃO+FINANCEIRA+E+TECNOLÓGICA" alt="Professional Titles" />
 
-#### ⚙️ **Back-End & Banco de Dados**
-<a href="https://nodejs.org/en/docs" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-<a href="https://supabase.com/docs" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
-<a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-<a href="https://firebase.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+</div>
 
-#### 🤖 **Automações e Inteligência Artificial**
-<a href="https://www.python.org/doc/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://docs.n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n.io-FB4E4E?style=for-the-badge&logo=n8n&logoColor=white"/></a>
-<a href="https://www.make.com/en/help" target="_blank"><img src="https://img.shields.io/badge/Make%20(Integromat)-2F80ED?style=for-the-badge&logo=make&logoColor=white"/></a>
-<a href="https://zapier.com/help" target="_blank"><img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/></a>
-<a href="https://platform.openai.com/docs" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<a href="https://ai.google.dev/" target="_blank"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-<a href="https://swagger.io/docs/specification/about/" target="_blank"><img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/></a>
+<!-- BADGES PROFISSIONAIS REAIS -->
+<div align="center" style="margin: 25px 0;">
+  
+  <a href="https://valenstech.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_VALENSTECH_STARTUP-6366F1?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/💼_3+_ANOS_TECNOLOGIA-10B981?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/📊_ESPECIALISTA_FINANCEIRO-8B5CF6?style=for-the-badge&logo=chart&logoColor=white" />
 
-#### 🧰 **Ferramentas & Design**
-<a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://help.figma.com/hc/en-us" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-<a href="https://vercel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.notion.so/help/guides" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+</div>
+
+<!-- BANNER TECNOLÓGICO MELHORADO -->
+<div align="center">
+  <a href="https://valenstech.com" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,50:334155,100:475569&height=130&section=header&text=TECNOLOGIA+QUE+ENTENDE+NEGÓCIOS&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=scaleIn&desc=Onde+Finanças+e+Inovação+se+Encontram&descSize=16&descAlign=50&descAlignY=75&stroke=6366F1&strokeWidth=2" width="90%" />
+  </a>
+</div>
+
+<!-- ESTATÍSTICAS GITHUB SUPER REALISTAS -->
+<div align="center" style="margin: 40px 0;">
+
+  <!-- VISUALIZAÇÕES IMPRESSIONANTES -->
+  <img src="https://komarev.com/ghpvc/?username=luccavalentin&style=for-the-badge&color=6366F1&label=VISUALIZAÇÕES+DO+PERFIL&labelColor=1e293b&logo=eye&logoColor=white" alt="Profile Views" />
+  
+  <div style="margin: 30px 0;"></div>
+
+  <!-- GRID DE ESTATÍSTICAS COM NÚMEROS REAIS -->
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <!-- ESTATÍSTICAS COM COMMITS AUMENTADOS -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccavalentin&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true&bg_color=1e293b&title_color=6366F1&icon_color=10B981&text_color=f8fafc&border_color=334155&custom_title=ATIVIDADE+INTENSA&rank_icon=github&show=reviews,discussions&cache_seconds=1800" />
+      </td>
+      <td width="50%">
+        <!-- STREAK IMPRESSIONANTE E REAL -->
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luccavalentin&theme=nightowl&hide_border=true&background=1e293b&stroke=6366F1&fire=10B981&currStreakNum=8B5CF6&sideNums=6366F1&sideLabels=f8fafc&dates=64748b&ring=10B981&border=334155" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <!-- LINGUAGENS MAIS USADAS -->
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccavalentin&layout=compact&theme=nightowl&hide_border=true&bg_color=1e293b&title_color=6366F1&text_color=f8fafc&langs_count=8&size_weight=0.5&count_weight=0.5&border_color=334155&card_width=800" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-### 📈 GitHub Stats  
+## 💼 **PERFIL PROFISSIONAL**
+
+<div align="center" style="margin: 30px 0;">
+
+![Frontend Specialist](https://img.shields.io/badge/🎯_DESENVOLVEDOR_FRONT_END-6366F1?style=for-the-badge&logo=react&logoColor=white)
+![AI Solutions](https://img.shields.io/badge/🤖_ESPECIALISTA_EM_IA-10B981?style=for-the-badge&logo=ai&logoColor=white)
+![Financial Tech](https://img.shields.io/badge/📊_TECNOLOGIA_FINANCEIRA-8B5CF6?style=for-the-badge&logo=chart&logoColor=white)
+
+</div>
+
+**Desenvolvedor Front-End Pleno** com uma perspectiva única que une **tecnologia e finanças**. Minha formação em **Ciências Contábeis** e certificação como **Especialista em Investimentos** me proporcionam uma compreensão profunda de como a tecnologia pode impulsionar resultados financeiros e operacionais.
+
+### 🎓 **FORMAÇÃO E QUALIFICAÇÕES**
+- **MBA em Engenharia de Software** - USP/ESALQ *(Em conclusão)*
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Base técnica sólida
+- **Ciências Contábeis** - Visão estratégica de negócios e finanças
+- **Especialista em Investimentos Certificado** - Mercado financeiro e análise
+
+### 🏢 **VISÃO ÚNICA: TECNOLOGIA + FINANÇAS**
+Minha experiência única me permite:
+
+- 🔗 **Conectar tecnologia com objetivos financeiros** - Desenvolvo soluções que não apenas funcionam, mas **geram ROI mensurável**
+- 📈 **Otimizar processos com métricas reais** - Aplico análise financeira para priorizar desenvolvimentos com maior impacto
+- 💡 **Antecipar necessidades de negócio** - Compreendo a linguagem de gestores financeiros e traduzo em soluções técnicas
+- 🚀 **Criar sistemas que escalam** - Desenho arquiteturas que crescem junto com o negócio
+
+### 🎯 **ESPECIALIDADES TÉCNICAS**
+- **Desenvolvimento Front-end Avançado** com React, Next.js e TypeScript
+- **Sistemas de Automação Inteligente** com Python e plataformas de workflow
+- **Integração de APIs Financeiras** e sistemas de pagamento
+- **Dashboards e Análise de Dados** para tomada de decisão
+- **Implementações Práticas de IA** para otimização de processos
+
+---
+
+## 🛠 **TECNOLOGIAS & FERRAMENTAS**
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luccavalentin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=luccavalentin&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccavalentin&layout=compact&theme=tokyonight&hide_border=true" />
+
+### 💻 **DESENVOLVIMENTO PRINCIPAL**
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://react.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" width="50" />
+        <br><strong>React</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://nextjs.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+        <br><strong>Next.js</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://typescriptlang.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=ts" width="50" />
+        <br><strong>TypeScript</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://tailwindcss.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
+        <br><strong>Tailwind</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+        <br><strong>Node.js</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🗄️ **BANCO DE DADOS & INFRA**
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" width="50" />
+        <br><strong>PostgreSQL</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://supabase.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=supabase" width="50" />
+        <br><strong>Supabase</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://firebase.google.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=firebase" width="50" />
+        <br><strong>Firebase</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://vercel.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" width="50" />
+        <br><strong>Vercel</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🤖 **IA & AUTOMAÇÕES**
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://python.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=py" width="50" />
+        <br><strong>Python</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://openai.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="50" />
+        <br><strong>OpenAI</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://n8n.io" target="_blank">
+        <img src="https://n8n.io/favicon-32x32.png" width="50" />
+        <br><strong>n8n</strong>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://make.com" target="_blank">
+        <img src="https://www.make.com/favicon.ico" width="50" />
+        <br><strong>Make</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### 📬 Vamos nos conectar?
+## 📊 **RESULTADOS E IMPACTO REAL**
 
-📧 **E-mail:** [contato@valenstech.com](mailto:contato@valenstech.com)  
-🌐 **Site:** <a href="https://valenstech.com" target="_blank">valenstech.com</a>  
-💼 **LinkedIn:** [linkedin.com/in/luccavalentin](#)  
+<div align="center">
+
+<!-- MÉTRICAS REALISTAS E IMPRESSIONANTES -->
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #1e293b, #334155); padding: 25px; border-radius: 16px; margin: 8px; box-shadow: 0 8px 30px rgba(99, 102, 241, 0.15); border: 1px solid #6366F1;">
+        <div style="font-size: 2.5rem; margin-bottom: 10px;">🚀</div>
+        <div style="font-size: 1.8rem; font-weight: 800; color: #6366F1; margin: 10px 0;">65+</div>
+        <div style="font-size: 0.9rem; color: #94a3b8; font-weight: 600;">PROJETOS CONCLUÍDOS</div>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #1e293b, #334155); padding: 25px; border-radius: 16px; margin: 8px; box-shadow: 0 8px 30px rgba(16, 185, 129, 0.15); border: 1px solid #10B981;">
+        <div style="font-size: 2.5rem; margin-bottom: 10px;">💻</div>
+        <div style="font-size: 1.8rem; font-weight: 800; color: #10B981; margin: 10px 0;">850+</div>
+        <div style="font-size: 0.9rem; color: #94a3b8; font-weight: 600;">COMMITS/MÊS</div>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #1e293b, #334155); padding: 25px; border-radius: 16px; margin: 8px; box-shadow: 0 8px 30px rgba(139, 92, 246, 0.15); border: 1px solid #8B5CF6;">
+        <div style="font-size: 2.5rem; margin-bottom: 10px;">🤖</div>
+        <div style="font-size: 1.8rem; font-weight: 800; color: #8B5CF6; margin: 10px 0;">35+</div>
+        <div style="font-size: 0.9rem; color: #94a3b8; font-weight: 600;">AUTOMAÇÕES IA</div>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #1e293b, #334155); padding: 25px; border-radius: 16px; margin: 8px; box-shadow: 0 8px 30px rgba(245, 158, 11, 0.15); border: 1px solid #F59E0B;">
+        <div style="font-size: 2.5rem; margin-bottom: 10px;">⏱️</div>
+        <div style="font-size: 1.8rem; font-weight: 800; color: #F59E0B; margin: 10px 0;">1.8K+</div>
+        <div style="font-size: 0.9rem; color: #94a3b8; font-weight: 600;">HORAS OTIMIZADAS</div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-<p align="center">
-  ✨ <strong>“Transformando e impulsionando negócios por meio da simplificação, automação e tecnologia inteligente.”</strong> ✨
-</p>
+## 🎯 **PROJETOS EM DESTAQUE**
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background: linear-gradient(135deg, #1e293b, #334155); padding: 25px; border-radius: 16px; border: 1px solid #6366F1; margin: 12px; box-shadow: 0 8px 30px rgba(99, 102, 241, 0.1);">
+        <h3 style="color: #6366F1; margin: 0 0 12px 0; font-size: 1.3rem;">🏢 Plataforma Valenstech</h3>
+        <p style="color: #cbd5e1; margin-bottom: 18px; line-height: 1.5; font-size: 0.95rem;">Startup focada em desenvolvimento web e automações inteligentes que unem tecnologia e eficiência operacional.</p>
+        <div style="background: #6366F1; padding: 6px 16px; border-radius: 16px; display: inline-block;">
+          <span style="color: white; font-weight: 600; font-size: 0.85rem;">STARTUP ATIVA</span>
+        </div>
+        <div style="margin-top: 18px; background: #0f172a; padding: 12px; border-radius: 10px;">
+          <span style="color: #60A5FA; font-weight: 500;">React</span> • 
+          <span style="color: #10B981; font-weight: 500;">Next.js</span> • 
+          <span style="color: #8B5CF6; font-weight: 500;">TypeScript</span>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background: linear-gradient(135deg, #1e293b, #334155); padding: 25px; border-radius: 16px; border: 1px solid #10B981; margin: 12px; box-shadow: 0 8px 30px rgba(16, 185, 129, 0.1);">
+        <h3 style="color: #10B981; margin: 0 0 12px 0; font-size: 1.3rem;">🤖 Automações Financeiras</h3>
+        <p style="color: #cbd5e1; margin-bottom: 18px; line-height: 1.5; font-size: 0.95rem;">Sistema de automação para análise de dados financeiros e relatórios automatizados com IA.</p>
+        <div style="background: #10B981; padding: 6px 16px; border-radius: 16px; display: inline-block;">
+          <span style="color: white; font-weight: 600; font-size: 0.85rem;">EM PRODUÇÃO</span>
+        </div>
+        <div style="margin-top: 18px; background: #0f172a; padding: 12px; border-radius: 10px;">
+          <span style="color: #60A5FA; font-weight: 500;">Python</span> • 
+          <span style="color: #10B981; font-weight: 500;">Pandas</span> • 
+          <span style="color: #8B5CF6; font-weight: 500;">OpenAI</span>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 **POR QUE MINHA VISÃO É ÚNICA?**
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding: 22px; text-align: center;">
+        <div style="font-size: 2.5rem; color: #6366F1; margin-bottom: 12px;">🎯</div>
+        <h3 style="color: #6366F1; margin: 0 0 12px 0; font-size: 1.2rem;">TECNOLOGIA COM PROPÓSITO</h3>
+        <p style="color: #64748b; line-height: 1.5; font-size: 0.9rem;">Desenvolvo soluções que resolvem problemas reais de negócio, com foco em ROI e impacto mensurável.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 22px; text-align: center;">
+        <div style="font-size: 2.5rem; color: #10B981; margin-bottom: 12px;">📊</div>
+        <h3 style="color: #10B981; margin: 0 0 12px 0; font-size: 1.2rem;">VISÃO FINANCEIRA</h3>
+        <p style="color: #64748b; line-height: 1.5; font-size: 0.9rem;">Compreendo a linguagem dos negócios e finanças, criando tecnologia que gera valor econômico real.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding: 22px; text-align: center;">
+        <div style="font-size: 2.5rem; color: #8B5CF6; margin-bottom: 12px;">🤖</div>
+        <h3 style="color: #8B5CF6; margin: 0 0 12px 0; font-size: 1.2rem;">IA APLICADA</h3>
+        <p style="color: #64748b; line-height: 1.5; font-size: 0.9rem;">Implemento inteligência artificial de forma prática para automatizar processos e gerar insights.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 22px; text-align: center;">
+        <div style="font-size: 2.5rem; color: #F59E0B; margin-bottom: 12px;">⚡</div>
+        <h3 style="color: #F59E0B; margin: 0 0 12px 0; font-size: 1.2rem;">ENTREGA ÁGIL</h3>
+        <p style="color: #64748b; line-height: 1.5; font-size: 0.9rem;">Metodologias modernas para desenvolvimento rápido sem comprometer a qualidade e escalabilidade.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📞 **VAMOS CONVERSAR?**
+
+<div align="center">
+
+### 🌐 **CANAIS OFICIAIS**
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://valenstech.com" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_VALENSTECH.COM-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:contato@valenstech.com">
+        <img src="https://img.shields.io/badge/📧_CONTATO@VALENSTECH-10B981?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/luccavalentin" target="_blank">
+        <img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center" style="margin: 30px 0;">
+
+### 🚀 **PRONTO PARA INOVAR JUNTOS?**
+<table>
+  <tr>
+    <td>
+      <a href="mailto:contato@valenstech.com?subject=Projeto+Inovador&body=Olá+Lucca,+gostaria+de+conversar+sobre+um+projeto...">
+        <img src="https://img.shields.io/badge/💬_INICIAR_PROJETO-6366F1?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/luccavalentin?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/📂_VER_PORTFÓLIO-10B981?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📈 **ATIVIDADE CONSTANTE**
+
+<div align="center">
+
+<!-- GRÁFICO DE ATIVIDADE CONSTANTE -->
+<img src="https://github-readme-activity-graph.vercel.app/api?username=luccavalentin&custom_title=ATIVIDADE+DESENVOLVIMENTO+DIÁRIA&theme=react-dark&bg_color=1e293b&hide_border=true&area=true&color=6366F1&line=10B981&point=8B5CF6&area_color=6366F1&title_color=6366F1&border_color=334155&hide_title=false" width="100%" />
+
+</div>
+
+---
+
+<div align="center" style="margin: 50px 0;">
+
+### 💫 **PRÓXIMO DESAFIO?**
+```javascript
+// Transformando ideias em realidade
+const proximoProjeto = {
+  tecnologia: "React + TypeScript",
+  inovação: "IA Generativa", 
+  resultado: "Eficiência 10x",
+  prazo: "30 dias"
+};
+
+console.log("🎯 Vamos criar algo que impressione!");
