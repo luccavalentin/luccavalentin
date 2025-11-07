@@ -7,11 +7,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=700&lines=✨+CRIANDO+EXPERIÊNCIAS+DIGITAIS+QUE+IMPACTAM;🚀+DESENVOLVENDO+SOLUÇÕES+INTELIGENTES;🎯+UNINDO+TECNOLOGIA+E+RESULTADOS+REAIS" alt="Loading Professional" />
   </div>
 
-  <!-- COBRINHA ALINHADA -->
+  <!-- PAC-MAN CONTRIBUTION GRAPH -->
   <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=8B5CF6&color_dots=0f172a&color_food=10B981" 
-    alt="snake animation"
-    style="filter: drop-shadow(0 0 10px #8B5CF6); border-radius: 10px; margin: 15px 0;"
+    src="https://pacman.abozanona.me?username=luccavalentin" 
+    alt="pacman animation"
+    style="filter: drop-shadow(0 0 10px #8B5CF6); border-radius: 10px; margin: 15px 0; width: 100%;"
   />
 </p>
 
