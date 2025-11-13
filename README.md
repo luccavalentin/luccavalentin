@@ -236,6 +236,34 @@ Por isso, estou sempre **explorando novas ferramentas, testando tecnologias emer
 
 ---
 
+## 📊 **DASHBOARD DE DESENVOLVIMENTO**
+
+<div align="center">
+
+### 📈 **ESTATÍSTICAS E MÉTRICAS EM TEMPO REAL**
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=luccavalentin&show_icons=true&theme=react&bg_color=0f172a&hide_border=true&title_color=6366F1&icon_color=10B981&text_color=ffffff&ring_color=8B5CF6" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccavalentin&layout=compact&theme=react&bg_color=0f172a&hide_border=true&title_color=6366F1&text_color=ffffff&langs_count=8&card_width=400" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- STREAK STATS COM DESIGN PERSONALIZADO -->
+<div align="center" style="margin: 30px 0;">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luccavalentin&theme=react&background=0f172a&hide_border=true&ring=6366F1&fire=10B981&currStreakLabel=8B5CF6&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=64748B" alt="GitHub Streak" width="60%" />
+
+</div>
+
+---
+
 ## 🎨 **SERVIÇOS ESPECIALIZADOS**
 
 <div align="center">
